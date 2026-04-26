@@ -6,6 +6,8 @@ This is a lightweight & heavily optimized R6 roblox rig made for advanced-proffe
 
 To properly use the rig i recommend either having basic blender knowledge or watching the official rig showcase.
 
+If you want to get notified when the rig is updated i recommend joining my portfolio:https://discord.gg/T6UEpe79sR
+
 Tools i recommend downloading with the rig:
 
 Roblox Animation Plugin(Roblox)-https://create.roblox.com/store/asset/16708835782/Blender-Animations-ultimate-edition
