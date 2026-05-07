@@ -34,6 +34,6 @@ Arms general control,
 Export mode for exporting your animations to use in-game,
 Eye cover/cone for the head.
 
-And all that weights just 8 megabytes!
+And all that weights just a bit over 8 megabytes!
 
-This rig is protected under the MIT license.
+This product is shared under the MIT license.
